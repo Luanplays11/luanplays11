@@ -1,9 +1,12 @@
 
 
 <div style="text-align: center;" align="center">
-Hi, I'm Luan Souza 
+  <img width="20%"  src="https://i.giphy.com/iJsjsm6dhNPiQBvztq.webp">
 </div>
-  <br>
+
+<div style="text-align: center;" align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luanplays11&theme=midnight-purple&hide_border=false)
 
 <div style="text-align: center;" align="center">
 <picture align="center">
@@ -13,11 +16,11 @@ Hi, I'm Luan Souza
 </picture>
 </div>
 
-
+  <img width="30%"  src="[[https://cdna.artstation.com/p/assets/images/images/012/549/212/original/alvaro-g-a-b2.gif?1535362754](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpixel-transparents&psig=AOvVaw0j-vyawDW11rLOuh7tmUN_&ust=1718308556163000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCju7Ds1oYDFQAAAAAdAAAAABAE)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc0bHZnNjI0cDNybDQ5em16eDl2Y21rb2JiZ215c2lvNjI4ZGF5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.webp)">
+</div>
+  <br>
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
   <a href="https://github.com/Luanplays11/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luanplays11&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7000e4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=7000e4&count_private=true" alt="Most Used Languages">
   </a>
@@ -33,7 +36,10 @@ Hi, I'm Luan Souza
 ### Programing Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<div style="text-align: center;" align="center">
-  <img width="30%"  src="https://cdna.artstation.com/p/assets/images/images/012/549/212/original/alvaro-g-a-b2.gif?1535362754">
-</div>
+
+
+
+
+
+
 
